@@ -63,10 +63,6 @@ The program return 0 if message send.
 | :  :    :  :    :  :
 +-+--+----+--+----+--+----------------------->
 ```
--- but if record the I/Q of the signal, you will see more
-```
-|  ...    ...      ...
-| :  :    :  \    :  :
-+-+--+----+--+----+--+----------------------->
-```
+-- but if record the I/Q of the signal, you will see :
 
+![IQ_sendook.png](IQ_sendook.png)
